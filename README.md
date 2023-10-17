@@ -1,6 +1,6 @@
 # xtay
 
-**I strongly discourage using this kicad repository as a basis for your own capacitive PCB project. I make zero claims about the quality of the routing.**
+**I strongly discourage using this repository as a basis for your own capacitive PCB project. I make zero claims about the quality of the routing.**
 
 This PCB allows you to modify your Model F XT or Bigfoot to have this layout:
 
